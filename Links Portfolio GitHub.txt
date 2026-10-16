@@ -1,0 +1,76 @@
+Portfolio Data Analysis Drive:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0
+
+
+Portfolio Excel:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Excel
+
+Projects Excel:
+1.Customer Demographics & Income:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Excel/Customer%20Demographics%20%26%20Income
+
+2. ElectroTech Egypt:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Excel/ElectroTech%20Egypt
+
+3.FNP Sales:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Excel/FNP%20Sales
+
+4.RAI-ZEN Cafe Sales:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Excel/RAI-ZEN%20Cafe%20Sales
+
+5.Sales Performance & Product (2016–2018):
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Excel/Sales%20Performance%20%26%20Product%20(2016%E2%80%932018)
+
+-------------------------------------
+
+Portfolio Power BI:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/PowerBI
+
+Projects Power BI:
+1.E-Commerce Retail Pulse:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/PowerBI/E-Commerce%20Retail%20Pulse
+
+2.HR People Pulse:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/PowerBI/HR%20People%20Pulse/Data%20File
+
+3.Office Furniture Sales:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/PowerBI/Office%20Furniture%20Sales
+
+4.Omnichannel Retail:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/PowerBI/Omnichannel%20Retail
+
+5.Retail Sales and Growth Strategy :
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/PowerBI/Retail%20Sales%20and%20Growth%20Strategy
+
+6.Sales Performance & Customer Insights:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/PowerBI/Sales%20Performance%20%26%20Customer%20Insights
+
+7.SuperMarket Sales Performance:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/PowerBI/SuperMarket%20Sales%20Performance
+
+----------------------------------------------
+Portfolio SQL:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/SQL
+
+Projects SQL:
+1.Bank Loans:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/SQL/Bank%20Loans
+
+2.E-Commerce Operational Efficiency SQL Server:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/SQL/E-Commerce%20Operational%20Efficiency%20SQL%20Server
+
+3.Retail Analytics:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/SQL/Retail%20Analytics
+
+-----------------------------------------------
+
+Portfolio Python:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Python
+
+Projects Python:
+1.Global Electronics & Smart Home Retail:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Python/Global%20Electronics%20%26%20Smart%20Home%20Retail
+
+2.Sales:
+https://github.com/husseinbayoumi24/Portfolio-Data-Analysis0/tree/main/Python/Sales
+

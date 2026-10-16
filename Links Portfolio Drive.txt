@@ -1,0 +1,77 @@
+Portfolio Data Analysis Drive:
+
+https://drive.google.com/drive/folders/1XQnKTzpw8PgpnY8aloFY9k1sTqZd3cLt?usp=drive_link
+
+
+Portfolio Excel:
+https://drive.google.com/drive/folders/1Q-D_wt2-0cnGBoj2jDlOZANIbqg8Kt9M?usp=drive_link
+
+Projects Excel:
+1.Customer Demographics & Income:
+https://drive.google.com/drive/folders/1ItS21ikTSELzELbI_MChQMw062rMozna?usp=drive_link
+
+2. ElectroTech Egypt:
+https://drive.google.com/drive/folders/1c8Yv39_8IV_QTnLuW7L4Mc9BRPC4R3Ow?usp=drive_link
+
+3.FNP Sales:
+https://drive.google.com/drive/folders/19-K7JFqOaB_TF6DLCXKHR8sGCXubGdqx?usp=drive_link
+
+4.RAI-ZEN Cafe Sales:
+https://drive.google.com/drive/folders/1HFdU6VJOPY3nTbImhfMtXUcXes0BKigx?usp=drive_link
+
+5.Sales Performance & Product (2016–2018):
+https://drive.google.com/drive/folders/1t9M1cZslRkcmOnquLWKB5Ik5JoD-n2Rc?usp=drive_link
+
+-------------------------------------
+
+Portfolio Power BI:
+https://drive.google.com/drive/folders/1WOLMTdzi87b7_-fEc5yFnXamtimGO8mT?usp=drive_link
+
+Projects Power BI:
+1.E-Commerce Retail Pulse:
+https://drive.google.com/drive/folders/1pWit5Q8H9Nmprj7m1nAyn4FYcZVlxyFN?usp=drive_link
+
+2.HR People Pulse:
+https://drive.google.com/drive/folders/1Xb8TBrDjK9TTRTdc9UcVUGjIngb9Z7h2?usp=drive_link
+
+3.Office Furniture Sales:
+https://drive.google.com/drive/folders/153LI-zkdZT4eSAFW8UUzVkwXYNFjvhMH?usp=drive_link
+
+4.Omnichannel Retail:
+https://drive.google.com/drive/folders/1Fdo4CAhaGSaMZyt3V4GhejIfxhKUL0Ca?usp=drive_link
+
+5.Retail Sales and Growth Strategy :
+https://drive.google.com/drive/folders/196_ohpdH7Wfxa306oigk-h1LNP_CGuVd?usp=drive_link
+
+6.Sales Performance & Customer Insights:
+https://drive.google.com/drive/folders/18El5l5anvbnrJ77NpJGb10FYtdG5iefq?usp=drive_link
+
+7.SuperMarket Sales Performance:
+https://drive.google.com/drive/folders/1PTYZ6Zof5jvbEpUlSpe34RGIvDq2uWfO?usp=drive_link
+
+----------------------------------------------
+Portfolio SQL:
+https://drive.google.com/drive/folders/16KMKH04aBPAuoM69WSxETWWbvYFU9Frc?usp=drive_link
+
+Projects SQL:
+1.Bank Loans:
+https://drive.google.com/drive/folders/1lT-7wO1qBT2HiTrWx-145XTUwRsYYngy?usp=drive_link
+
+2.E-Commerce Operational Efficiency SQL Server:
+https://drive.google.com/drive/folders/1ZbFwoorOHYBxNtKvaOvsum_5HQhu1vZN?usp=drive_link
+
+3.Retail Analytics:
+https://drive.google.com/drive/folders/1uUDKO10Q-2ZpOqTmEvx062LWb7OVVbWM?usp=drive_link
+
+-----------------------------------------------
+
+Portfolio Python:
+https://drive.google.com/drive/folders/1QLjLGjK3c3MV1PlnTJ8Q6yOWrai2Lz7d?usp=drive_link
+
+Projects Python:
+1.Global Electronics & Smart Home Retail:
+https://drive.google.com/drive/folders/1DnEbDNJqK6E0zaNIHE4invLTTn5qavsG?usp=drive_link
+
+2.Sales:
+https://drive.google.com/drive/folders/1DCjpFdidX1of51ARpn-dgj5-K6XUiNR0?usp=drive_link
+
